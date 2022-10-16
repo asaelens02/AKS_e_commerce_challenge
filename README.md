@@ -22,7 +22,7 @@ ashleysaelens02@yahoo.com
 
 ## Links:
 
-github repo: https://github.com/asaelens02/AKS-Employee-Tracker-MySQL-
+github repo: https://github.com/asaelens02/AKS_e_commerce_challenge
 
 ## Issues:
 
